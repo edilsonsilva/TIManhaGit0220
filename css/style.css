@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    border-bottom:1px solid silver;
+    margin-bottom: 50px;
+    padding:20px;
+    position: fixed;
+    width: 100%;
+    top:0;
+}
+
+main{
+    margin-top: 120px;
+}
