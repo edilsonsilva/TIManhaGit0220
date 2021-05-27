@@ -5,3 +5,10 @@ var b3 = document.getElementById("btn3");
 b1.onclick = ()=>{
     alert("Você clicou no link 1");
 }
+
+b2.onclick = () => {
+    document.getElementById("context").style.display="none";
+}
+b3.onclick = () => {
+    document.getElementById("context").style.display="block";
+}
