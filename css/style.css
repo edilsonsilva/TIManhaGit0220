@@ -27,7 +27,8 @@ header nav ul li a{
     text-decoration: none;
 }
 
-main{
+#context{
+    display: block;
     margin-top: 120px;
 }
 
